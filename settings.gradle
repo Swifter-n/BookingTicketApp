@@ -1,0 +1,2 @@
+rootProject.name='Tiket Saya'
+include ':app'
